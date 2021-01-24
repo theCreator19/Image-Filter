@@ -1,5 +1,4 @@
 # Image-Filter
-<!DOCTYPE html>
 <html>
 <head>
 	<link rel="icon" type="images/jpg" href="https://i.pinimg.com/236x/e7/98/5b/e7985b66353bf9a98762d4026bf3e7a4--alphabet-wall-decals-alphabet-letters.jpg">
